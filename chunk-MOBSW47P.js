@@ -1,0 +1,1 @@
+import{d as s,f as n,i as e,j as t}from"./chunk-4MYIR57G.js";var o,d=s(()=>{t();o=class extends e{show(i){return n(this,null,function*(){})}hide(i){return n(this,null,function*(){})}}});d();export{o as SplashScreenWeb};
